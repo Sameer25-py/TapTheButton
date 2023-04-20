@@ -2096,7 +2096,7 @@ MonoBehaviour:
   RulesCanvas: {fileID: 1815023422}
   SettingsCanvas: {fileID: 823279081}
   CollectionCanvas: {fileID: 1742592066}
-  LastUnlockedScroll: 20
+  LastUnlockedScroll: 0
   TapButton: {fileID: 1773704336}
   AudioSource: {fileID: 1510686307}
   ScrollPrompts:
